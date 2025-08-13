@@ -19,8 +19,6 @@ redirect_from:
 - Min, H., Lee, Y., Ban, M., Deng, J., **Kim, N.**, et al. (2025). *Towards Multi-dimensional Evaluation of LLM Summarization across Domains and Languages*. In **ACL 2025**.
 - Kim, T., Lee, S., Kang, J., Choi, Y., Yun, W., **Kim, N.**, et al. (2025). *IMC: A Benchmark for Invariant Learning under Multiple Causes*. In **CVPR 2025 Workshop**.
 
-[전체 논문 목록](/publications/)
-
 ---
 
 ## Projects
