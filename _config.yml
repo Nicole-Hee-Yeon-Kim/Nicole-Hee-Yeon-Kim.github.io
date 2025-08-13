@@ -22,7 +22,7 @@ repository               : "Nicole-Hee-Yeon-Kim/Nicole-Hee-Yeon-Kim.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.jpeg"
+  avatar           : "profile.jpeg"
   name             : "Nicole Hee-Yeon Kim"
   pronouns         : # example: "she/her"  
   bio              : "MS Student in Industrial & Systems Engineering, KAIST"
