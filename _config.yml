@@ -23,9 +23,9 @@ repository               : "Nicole-Hee-Yeon-Kim/Nicole-Hee-Yeon-Kim.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Nicole Hee-Yeon Kim"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "MS Student in Industrial & Systems Engineering, KAIST"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
