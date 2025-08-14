@@ -36,23 +36,22 @@ Jihwan Oh, Jeonghwan Choi, **Nicole Hee-Yeon Kim**, Taewon Yun, Hwanjun Song
 
 **Robust Dataset Condensation via Semi-Supervised Learning**  
 **Nicole Hee-Yeon Kim**, Jeonghwan Choi, Yuho Lee, Hwanjun Song  
-*KCC 2025, Oral*  
-[[paper](LINK_TO_PAPER)]
+*KCC 2025, Oral (in Korean)*  
 
 **Improving Language Model Quality through LLM-based Fine-Grained Hallucinated Summary Generation**  
 Jihwan Oh, Jeonghwan Choi, **Nicole Hee-Yeon Kim**, Hwanjun Song  
-*Journal of Computing Practice, vol. 31(2), pp. 91-97.*  
-[[paper](LINK_TO_PAPER)]
+*Journal of Computing Practice, vol. 31(2), pp. 91-97. (in Korean)*  
+[[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12086923)]
 
 **Robust Dataset Condensation via Supervised Contrastive Learning**  
 **Nicole Hee-Yeon Kim**, Jeonghwan Choi, Yuho Lee, Hwanjun Song  
-*KSC 2024, Oral*  
-[[paper](LINK_TO_PAPER)]
+*KSC 2024, Oral (in Korean)*  
+[[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12041828)]
 
 **Improving the Text Summary Quality Through Understanding the Hallucination Level of Summarization Using Large Language Models**  
 Jihwan Oh, Jeonghwan Choi, **Nicole Hee-Yeon Kim**, Hwanjun Song  
-*KCC 2024, Oral*  
-[[paper](LINK_TO_PAPER)]
+*KCC 2024, Oral (in Korean)*  
+[[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11861883)]
 
 ---
 
