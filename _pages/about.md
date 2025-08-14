@@ -22,7 +22,7 @@ My research focuses on enhancing multimodal large language models (LLMs) and vis
 **Towards Multi-dimensional Evaluation of LLM Summarization across Domains and Languages**  
 Hyangsuk Min, Yuho Lee, Minjeong Ban, Jiaqi Deng, **Nicole Hee-Yeon Kim**, Taewon Yun, Hang Su, Jason Cai, Hwanjun Song  
 *ACL 2025, Main*  
-[paper](https://arxiv.org/abs/2506.00549) [code](https://github.com/DISL-Lab/MSumBench)
+[[paper](https://arxiv.org/abs/2506.00549)] [[code](https://github.com/DISL-Lab/MSumBench)]
 
 **IMC: A Benchmark for Invariant Learning under Multiple Causes**  
 Taero Kim, Seonggyun Lee, Joonseong Kang, Youngjun Choi, Wonsang Yun, **Nicole Hee-Yeon Kim**, Ziyu Chen, Lexing Xie, Kyungwoo Song  
