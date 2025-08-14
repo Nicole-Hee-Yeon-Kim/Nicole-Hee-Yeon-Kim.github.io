@@ -9,7 +9,7 @@ redirect_from:
 
 I am a second-year M.S. student in the Department of Industrial and Systems Engineering at KAIST, advised by Prof. Hwanjun Song. I received my B.S. in Industrial Engineering from Yonsei University, where I worked as a research intern with Prof. Kyungwoo Song. I hold dual citizenship of the United States of America and the Republic of Korea, and I am planning to apply for Ph.D. programs in Fall 2026 as a domestic student in the U.S.
 
-My research focuses on enhancing multimodal large language models (LLMs) and vision–language models (VLMs) for deeper understanding across multiple modalities, including images, text, audio, and video. I am particularly interested in advancing AI–human interaction, aiming to develop systems where AI can accurately interpret human intentions and humans can effectively guide AI’s development. I approach this goal from a multimodal perspective, seeking to bridge modalities for more natural and effective interaction.
+My research focuses on enhancing multimodal large language models (LLMs) and vision–language models (VLMs) for deeper understanding across multiple modalities, including images, text, audio, and video. I am particularly interested in advancing AI–human interaction, aiming to develop systems where AI can accurately interpret human intentions and humans can effectively guide AI’s development. I pursue this through a multimodal lens, developing methods that align and fuse modalities to support more natural, controllable, and effective interaction.
 
 ---
 
