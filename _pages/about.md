@@ -17,17 +17,17 @@ My research focuses on enhancing multimodal large language models (LLMs) and vis
 
 **Robust Dataset Condensation using Supervised Contrastive Learning**  
 Kim, H. and Song, H.  
-*ICCV 2025, Poster*  
+*ICCV 2025*  
 [paper](LINK_TO_PAPER) [code](LINK_TO_CODE)
 
 **Towards Multi-dimensional Evaluation of LLM Summarization across Domains and Languages**  
 Min, H., Lee, Y., Ban, M., Deng, J., Kim, H., Yun, T., Su, H., Cai, J., Song, H.  
-*ACL 2025, Main conference*  
+*ACL 2025, Main*  
 [paper](LINK_TO_PAPER) [code](LINK_TO_CODE)
 
 **IMC: A Benchmark for Invariant Learning under Multiple Causes**  
 Kim, T., Lee, S., Kang, J., Choi, Y., Yun, W., Kim, H., Chen, Z., Xie, L., Song, K.  
-*CVPR 2025 Workshop on Domain Generalization, Best Paper Award*  
+*CVPR 2025 Workshop on Domain Generalization: Evolution, Breakthroughs, and Future Horizons, Best Paper Award*  
 [paper](LINK_TO_PAPER) [code](LINK_TO_CODE)
 
 **Learning to Verify Summary Facts with Fine-Grained LLM Feedback**  
@@ -42,7 +42,7 @@ Kim, H., Choi, J., Lee, Y., Song, H.
 
 **Improving Language Model Quality through LLM-based Fine-Grained Hallucinated Summary Generation**  
 Oh, J., Choi, J., Kim, H., Song, H.  
-*Journal of Computing Practice 2025*  
+*Journal of Computing Practice, vol. 31(2), pp. 91-97.*  
 [paper](LINK_TO_PAPER) [code](LINK_TO_CODE)
 
 **Robust Dataset Condensation via Supervised Contrastive Learning**  
