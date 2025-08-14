@@ -35,24 +35,24 @@ Jihwan Oh, Jeonghwan Choi, **Nicole Hee-Yeon Kim**, Taewon Yun, Hwanjun Song
 [[paper](https://arxiv.org/abs/2412.10689)] [[code](https://github.com/DISL-Lab/FineSumFact)]
 
 **Robust Dataset Condensation via Semi-Supervised Learning**  
-Kim, H., Choi, J., Lee, Y., Song, H.  
+**Nicole Hee-Yeon Kim**, Jeonghwan Choi, Yuho Lee, Hwanjun Song  
 *KCC 2025, Oral*  
-[[paper](LINK_TO_PAPER)] [[code](LINK_TO_CODE)]
+[[paper](LINK_TO_PAPER)]
 
 **Improving Language Model Quality through LLM-based Fine-Grained Hallucinated Summary Generation**  
-Oh, J., Choi, J., Kim, H., Song, H.  
+Jihwan Oh, Jeonghwan Choi, **Nicole Hee-Yeon Kim**, Hwanjun Song  
 *Journal of Computing Practice, vol. 31(2), pp. 91-97.*  
-[[paper](LINK_TO_PAPER)] [[code](LINK_TO_CODE)]
+[[paper](LINK_TO_PAPER)]
 
 **Robust Dataset Condensation via Supervised Contrastive Learning**  
-Kim, H., Lee, Y., Song, H.  
+**Nicole Hee-Yeon Kim**, Jeonghwan Choi, Yuho Lee, Hwanjun Song  
 *KSC 2024, Oral*  
-[[paper](LINK_TO_PAPER)] [[code](LINK_TO_CODE)]
+[[paper](LINK_TO_PAPER)]
 
 **Improving the Text Summary Quality Through Understanding the Hallucination Level of Summarization Using Large Language Models**  
-Oh, J., Choi, J., Kim, H., Song, H.  
+Jihwan Oh, Jeonghwan Choi, **Nicole Hee-Yeon Kim**, Hwanjun Song  
 *KCC 2024, Oral*  
-[[paper](LINK_TO_PAPER)] [[code](LINK_TO_CODE)]
+[[paper](LINK_TO_PAPER)]
 
 ---
 
