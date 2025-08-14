@@ -55,6 +55,12 @@ Jihwan Oh, Jeonghwan Choi, **Nicole Hee-Yeon Kim**, Hwanjun Song
 
 ---
 
+## Patent
+
+**Patent Pending** – KAIST Patent Registration ID: KR P2025-0286, *Robust Dataset Condensation using Supervised Contrastive Learning*
+
+---
+
 ## Honors and Awards
 
 - **Best Paper Award**, CVPR Workshop (2023) – 학부 인턴 연구 참여
