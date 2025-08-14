@@ -13,7 +13,7 @@ My research focuses on enhancing multimodal large language models (LLMs) and vis
 
 ---
 
-# Publications
+## Publications
 
 ### Robust Dataset Condensation using Supervised Contrastive Learning
 **Nicole Hee-Yeon Kim** and Hwanjun Song  
@@ -24,44 +24,44 @@ Hyangsuk Min, Yuho Lee, Minjeong Ban, Jiaqi Deng, **Nicole Hee-Yeon Kim**, Taewo
 *ACL 2025, Main*  
 [[paper](https://arxiv.org/abs/2506.00549)] [[code](https://github.com/DISL-Lab/MSumBench)]
 
-**IMC: A Benchmark for Invariant Learning under Multiple Causes**  
+### IMC: A Benchmark for Invariant Learning under Multiple Causes  
 Taero Kim, Seonggyun Lee, Joonseong Kang, Youngjun Choi, Wonsang Yun, **Nicole Hee-Yeon Kim**, Ziyu Chen, Lexing Xie, Kyungwoo Song  
 *CVPR 2025 Workshop on Domain Generalization: Evolution, Breakthroughs, and Future Horizons, Best Paper Award*  
 [[paper](https://openaccess.thecvf.com/content/CVPR2025W/DG-EBF/html/Kim_IMC_A_Benchmark_for_Invariant_Learning_under_Multiple_Causes_CVPRW_2025_paper.html)] [[code](https://github.com/MLAI-Yonsei/multiple_causes)]
 
-**Learning to Verify Summary Facts with Fine-Grained LLM Feedback**  
+### Learning to Verify Summary Facts with Fine-Grained LLM Feedback  
 Jihwan Oh, Jeonghwan Choi, **Nicole Hee-Yeon Kim**, Taewon Yun, Hwanjun Song  
 *COLING 2025, Oral*  
 [[paper](https://arxiv.org/abs/2412.10689)] [[code](https://github.com/DISL-Lab/FineSumFact)]
 
-**Robust Dataset Condensation via Semi-Supervised Learning**  
+### Robust Dataset Condensation via Semi-Supervised Learning  
 **Nicole Hee-Yeon Kim**, Jeonghwan Choi, Yuho Lee, Hwanjun Song  
 *KCC 2025, Oral (in Korean)*  
 
-**Improving Language Model Quality through LLM-based Fine-Grained Hallucinated Summary Generation**  
+### Improving Language Model Quality through LLM-based Fine-Grained Hallucinated Summary Generation  
 Jihwan Oh, Jeonghwan Choi, **Nicole Hee-Yeon Kim**, Hwanjun Song  
 *Journal of Computing Practice, vol. 31(2), pp. 91-97. (in Korean)*  
 [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12086923)]
 
-**Robust Dataset Condensation via Supervised Contrastive Learning**  
+### Robust Dataset Condensation via Supervised Contrastive Learning  
 **Nicole Hee-Yeon Kim**, Jeonghwan Choi, Yuho Lee, Hwanjun Song  
 *KSC 2024, Oral (in Korean)*  
 [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12041828)]
 
-**Improving the Text Summary Quality Through Understanding the Hallucination Level of Summarization Using Large Language Models**  
+### Improving the Text Summary Quality Through Understanding the Hallucination Level of Summarization Using Large Language Models  
 Jihwan Oh, Jeonghwan Choi, **Nicole Hee-Yeon Kim**, Hwanjun Song  
 *KCC 2024, Oral (in Korean)*  
 [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11861883)]
 
 ---
 
-# Patent
+## Patent
 
 **Patent Pending** – KAIST Patent Registration ID: KR P2025-0286, *Robust Dataset Condensation using Supervised Contrastive Learning*
 
 ---
 
-# Honors and Awards
+## Honors and Awards
 
 - **Best Paper Award**, CVPR Workshop (2023) – 학부 인턴 연구 참여
 - **Full Scholarship**, KAIST Support Scholarship
