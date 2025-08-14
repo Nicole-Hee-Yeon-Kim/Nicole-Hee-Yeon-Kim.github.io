@@ -57,17 +57,6 @@ Oh, J., Choi, J., Kim, H., Song, H.
 
 ---
 
-## Projects
-
-- **Multimodal Retrieval-Augmented Generation**
-  - 웹페이지와 멀티모달 데이터를 결합한 검색·생성 시스템 개발.
-  - BLIP, LLaVA 등 VLM 기반 파이프라인 구현.
-- **Dataset Condensation with Contrastive Learning**
-  - 이미지 데이터셋 압축 및 학습 효율화 연구.
-  - Supervised Contrastive Loss 적용.
-
----
-
 ## Honors and Awards
 
 - **Best Paper Award**, CVPR Workshop (2023) – 학부 인턴 연구 참여
