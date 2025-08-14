@@ -13,9 +13,9 @@ My research focuses on enhancing multimodal large language models (LLMs) and vis
 
 ---
 
-## Publications
+# Publications
 
-### Robust Dataset Condensation using Supervised Contrastive Learning  
+## Robust Dataset Condensation using Supervised Contrastive Learning  
 **Nicole Hee-Yeon Kim** and Hwanjun Song  
 *ICCV 2025 (Accepted)*
 
@@ -55,13 +55,13 @@ Jihwan Oh, Jeonghwan Choi, **Nicole Hee-Yeon Kim**, Hwanjun Song
 
 ---
 
-## Patent
+# Patent
 
 **Patent Pending** – KAIST Patent Registration ID: KR P2025-0286, *Robust Dataset Condensation using Supervised Contrastive Learning*
 
 ---
 
-## Honors and Awards
+# Honors and Awards
 
 - **Best Paper Award**, CVPR Workshop (2023) – 학부 인턴 연구 참여
 - **Full Scholarship**, KAIST Support Scholarship
