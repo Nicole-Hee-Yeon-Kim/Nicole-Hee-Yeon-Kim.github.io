@@ -16,23 +16,23 @@ My research focuses on enhancing multimodal large language models (LLMs) and vis
 ## Publications
 
 **Robust Dataset Condensation using Supervised Contrastive Learning**  
-**Nicole Hee-Yeon Kim** and Hwanjun Song
+**Nicole Hee-Yeon Kim** and Hwanjun Song  
 *ICCV 2025 (Accepted)*
 
 **Towards Multi-dimensional Evaluation of LLM Summarization across Domains and Languages**  
-Min, H., Lee, Y., Ban, M., Deng, J., Kim, H., Yun, T., Su, H., Cai, J., Song, H.  
+Hyangsuk Min, Yuho Lee, Minjeong Ban, Jiaqi Deng, **Nicole Hee-Yeon Kim**, Taewon Yun, Hang Su, Jason Cai, Hwanjun Song  
 *ACL 2025, Main*  
-[paper](LINK_TO_PAPER) [code](LINK_TO_CODE)
+[paper](https://arxiv.org/abs/2506.00549) [code](https://github.com/DISL-Lab/MSumBench)
 
 **IMC: A Benchmark for Invariant Learning under Multiple Causes**  
-Kim, T., Lee, S., Kang, J., Choi, Y., Yun, W., Kim, H., Chen, Z., Xie, L., Song, K.  
+Taero Kim, Seonggyun Lee, Joonseong Kang, Youngjun Choi, Wonsang Yun, **Nicole Hee-Yeon Kim**, Ziyu Chen, Lexing Xie, Kyungwoo Song  
 *CVPR 2025 Workshop on Domain Generalization: Evolution, Breakthroughs, and Future Horizons, Best Paper Award*  
-[paper](LINK_TO_PAPER) [code](LINK_TO_CODE)
+[paper](https://openaccess.thecvf.com/content/CVPR2025W/DG-EBF/papers/Kim_IMC_A_Benchmark_for_Invariant_Learning_under_Multiple_Causes_CVPRW_2025_paper.pdf) [code](https://github.com/MLAI-Yonsei/multiple_causes)
 
 **Learning to Verify Summary Facts with Fine-Grained LLM Feedback**  
-Oh, J., Choi, J., Kim, H., Yun, T., Kwon, R., Song, H.  
+Jihwan Oh, Jeonghwan Choi, **Nicole Hee-Yeon Kim**, Taewon Yun, Hwanjun Song  
 *COLING 2025, Oral*  
-[paper](LINK_TO_PAPER) [code](LINK_TO_CODE)
+[paper](https://arxiv.org/abs/2412.10689) [code](https://github.com/DISL-Lab/FineSumFact)
 
 **Robust Dataset Condensation via Semi-Supervised Learning**  
 Kim, H., Choi, J., Lee, Y., Song, H.  
