@@ -27,7 +27,7 @@ Hyangsuk Min, Yuho Lee, Minjeong Ban, Jiaqi Deng, **Nicole Hee-Yeon Kim**, Taewo
 **IMC: A Benchmark for Invariant Learning under Multiple Causes**  
 Taero Kim, Seonggyun Lee, Joonseong Kang, Youngjun Choi, Wonsang Yun, **Nicole Hee-Yeon Kim**, Ziyu Chen, Lexing Xie, Kyungwoo Song  
 *CVPR 2025 Workshop on Domain Generalization: Evolution, Breakthroughs, and Future Horizons, Best Paper Award*  
-[paper](https://openaccess.thecvf.com/content/CVPR2025W/DG-EBF/papers/Kim_IMC_A_Benchmark_for_Invariant_Learning_under_Multiple_Causes_CVPRW_2025_paper.pdf) [code](https://github.com/MLAI-Yonsei/multiple_causes)
+[paper](https://openaccess.thecvf.com/content/CVPR2025W/DG-EBF/html/Kim_IMC_A_Benchmark_for_Invariant_Learning_under_Multiple_Causes_CVPRW_2025_paper.html) [code](https://github.com/MLAI-Yonsei/multiple_causes)
 
 **Learning to Verify Summary Facts with Fine-Grained LLM Feedback**  
 Jihwan Oh, Jeonghwan Choi, **Nicole Hee-Yeon Kim**, Taewon Yun, Hwanjun Song  
