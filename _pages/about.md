@@ -66,19 +66,19 @@ Jihwan Oh, Jeonghwan Choi, **Nicole Hee-Yeon Kim**, Hwanjun Song
 ## Honors, Awards & Scholarships
 
 ### Awards
-- **Best Paper Award** — CVPR 2025 Workshop on *Domain Generalization: Evolution, Breakthroughs, and Future Horizons* (United States). *Jun 2025*
-- **Outstanding Presentation Paper Award** — Korea Computer Congress 2024. *Jul 2024*
-- **1st Place, Promotional Video Contest** — Department of Industrial Engineering, Yonsei University. *Feb 2022*
-- **Yonsei Social Entrepreneurship Award** — Yonsei University, South Korea. *Feb 2021*
+- **Best Paper Award** — CVPR 2025 Workshop on *Domain Generalization: Evolution, Breakthroughs, and Future Horizons* (United States), 2025
+- **Outstanding Presentation Paper Award** — Korea Computer Congress 2024, 2024
+- **1st Place, Promotional Video Contest** — Department of Industrial Engineering, Yonsei University, 2022
+- **Yonsei Social Entrepreneurship Award** — Yonsei University, South Korea, 2021
 
 ### Scholarships
-- **KAIST Support Scholarship** — KAIST. *Feb 2024–Present*  
+- **KAIST Support Scholarship** — KAIST, 2024-2025
   *Government-funded full tuition scholarship for M.S. program.*
-- **Brain Korea 21 (BK21) Scholarship** — National Research Foundation of Korea. *Feb 2024–Present*  
+- **Brain Korea 21 (BK21) Scholarship** — National Research Foundation of Korea, 2024-2025
   *Government-funded research scholarship for graduate students.*
-- **Yonsei Welfare Scholarship** — Yonsei University. *Mar 2019–Jun 2023*  
+- **Yonsei Welfare Scholarship** — Yonsei University, 2019-2023
   *Full tuition scholarship for B.S. program.*
-- **University Innovation Support Scholarship** — Yonsei University. *Sep 2020–Feb 2021*  
+- **University Innovation Support Scholarship** — Yonsei University, 2020-2021 
   *Scholarship awarded for the development and advancement of an innovative start-up idea.*
-- **Teaching Assistant Scholarship for the Data Science Program** — Yonsei University. *Dec 2020–Feb 2021*  
+- **Teaching Assistant Scholarship for the Data Science Program** — Yonsei University, 2020-2021
   *Teaching assistant for the Data Science program, responsible for editing and preparing lecture videos.*
