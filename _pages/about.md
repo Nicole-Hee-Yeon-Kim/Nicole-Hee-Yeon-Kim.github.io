@@ -63,12 +63,12 @@ Jihwan Oh, Jeonghwan Choi, **Nicole Hee-Yeon Kim**, Hwanjun Song
 
 ## Honors and Awards
 
-Best Paper Award — CVPR 2025 Workshop, 2025  
-KAIST Support Scholarship (Government-funded full tuition scholarship for M.S. program), 2024–Present  
-Brain Korea 21 (BK21) Scholarship (Government-funded research scholarship for graduate students), 2024–Present  
-Korea Computer Congress Outstanding Presentation Paper Award, 2024  
-Yonsei Welfare Scholarship (Full tuition scholarship for B.S. program), 2019–2023  
-1st Place, Department of Industrial Engineering Promotional Video Contest, 2022  
-University Innovation Support Scholarship, 2020–2021  
-Teaching Assistant Scholarship for the Data Science Program, 2020–2021  
-Yonsei Social Entrepreneurship Award, 2021
+- Best Paper Award — CVPR 2025 Workshop, 2025  
+- KAIST Support Scholarship (Government-funded full tuition scholarship for M.S. program), 2024–Present  
+- Brain Korea 21 (BK21) Scholarship (Government-funded research scholarship for graduate students), 2024–Present  
+- Korea Computer Congress Outstanding Presentation Paper Award, 2024  
+- Yonsei Welfare Scholarship (Full tuition scholarship for B.S. program), 2019–2023  
+- 1st Place, Department of Industrial Engineering Promotional Video Contest, 2022  
+- University Innovation Support Scholarship, 2020–2021  
+- Teaching Assistant Scholarship for the Data Science Program, 2020–2021  
+- Yonsei Social Entrepreneurship Award, 2021
