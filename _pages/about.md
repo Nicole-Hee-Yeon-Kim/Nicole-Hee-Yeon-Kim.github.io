@@ -27,32 +27,32 @@ Hyangsuk Min, Yuho Lee, Minjeong Ban, Jiaqi Deng, **Nicole Hee-Yeon Kim**, Taewo
 **IMC: A Benchmark for Invariant Learning under Multiple Causes**  
 Taero Kim, Seonggyun Lee, Joonseong Kang, Youngjun Choi, Wonsang Yun, **Nicole Hee-Yeon Kim**, Ziyu Chen, Lexing Xie, Kyungwoo Song  
 *CVPR 2025 Workshop on Domain Generalization: Evolution, Breakthroughs, and Future Horizons, Best Paper Award*  
-[paper](https://openaccess.thecvf.com/content/CVPR2025W/DG-EBF/html/Kim_IMC_A_Benchmark_for_Invariant_Learning_under_Multiple_Causes_CVPRW_2025_paper.html) [code](https://github.com/MLAI-Yonsei/multiple_causes)
+[[paper](https://openaccess.thecvf.com/content/CVPR2025W/DG-EBF/html/Kim_IMC_A_Benchmark_for_Invariant_Learning_under_Multiple_Causes_CVPRW_2025_paper.html)] [[code](https://github.com/MLAI-Yonsei/multiple_causes)]
 
 **Learning to Verify Summary Facts with Fine-Grained LLM Feedback**  
 Jihwan Oh, Jeonghwan Choi, **Nicole Hee-Yeon Kim**, Taewon Yun, Hwanjun Song  
 *COLING 2025, Oral*  
-[paper](https://arxiv.org/abs/2412.10689) [code](https://github.com/DISL-Lab/FineSumFact)
+[[paper](https://arxiv.org/abs/2412.10689)] [[code](https://github.com/DISL-Lab/FineSumFact)]
 
 **Robust Dataset Condensation via Semi-Supervised Learning**  
 Kim, H., Choi, J., Lee, Y., Song, H.  
 *KCC 2025, Oral*  
-[paper](LINK_TO_PAPER) [code](LINK_TO_CODE)
+[[paper](LINK_TO_PAPER)] [[code](LINK_TO_CODE)]
 
 **Improving Language Model Quality through LLM-based Fine-Grained Hallucinated Summary Generation**  
 Oh, J., Choi, J., Kim, H., Song, H.  
 *Journal of Computing Practice, vol. 31(2), pp. 91-97.*  
-[paper](LINK_TO_PAPER) [code](LINK_TO_CODE)
+[[paper](LINK_TO_PAPER)] [[code](LINK_TO_CODE)]
 
 **Robust Dataset Condensation via Supervised Contrastive Learning**  
 Kim, H., Lee, Y., Song, H.  
 *KSC 2024, Oral*  
-[paper](LINK_TO_PAPER) [code](LINK_TO_CODE)
+[[paper](LINK_TO_PAPER)] [[code](LINK_TO_CODE)]
 
 **Improving the Text Summary Quality Through Understanding the Hallucination Level of Summarization Using Large Language Models**  
 Oh, J., Choi, J., Kim, H., Song, H.  
 *KCC 2024, Oral*  
-[paper](LINK_TO_PAPER) [code](LINK_TO_CODE)
+[[paper](LINK_TO_PAPER)] [[code](LINK_TO_CODE)]
 
 ---
 
