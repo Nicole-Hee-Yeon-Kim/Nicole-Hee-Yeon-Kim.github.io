@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-안녕하세요. 저는 **Nicole Hee-Yeon Kim**입니다.  
-현재 KAIST 산업및시스템공학과 석사과정(MS Student in Industrial & Systems Engineering, KAIST)으로 재학 중이며,  
-**Multimodal LLM**, **Vision-Language Models**, **Retrieval-Augmented Generation** 분야에 관심을 두고 연구하고 있습니다.  
+I am a second-year M.S. student in the Department of Industrial and Systems Engineering at KAIST, advised by Prof. Hwanjun Song. I received my B.S. in Industrial Engineering from Yonsei University, where I worked as a research intern with Prof. Kyungwoo Song. I hold dual citizenship of the United States of America and the Republic of Korea, and I am planning to apply for Ph.D. programs in Fall 2026 as a domestic student in the U.S.
+My research focuses on enhancing multimodal models’ understanding of images, text, audio, and video. I am particularly interested in advancing AI–human interaction, aiming to develop systems where AI can accurately interpret human intentions and humans can effectively guide AI’s development. I approach this goal from a multimodal perspective, seeking to bridge modalities for more natural and effective interaction.
 
 ---
 
