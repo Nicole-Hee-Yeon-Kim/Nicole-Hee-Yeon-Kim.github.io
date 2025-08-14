@@ -15,9 +15,45 @@ My research focuses on enhancing multimodal large language models (LLMs) and vis
 
 ## Publications
 
-- **Kim, N.** and Song, H. (2025). *Robust Dataset Condensation using Supervised Contrastive Learning*. In **ICCV 2025** (Poster).
-- Min, H., Lee, Y., Ban, M., Deng, J., **Kim, N.**, et al. (2025). *Towards Multi-dimensional Evaluation of LLM Summarization across Domains and Languages*. In **ACL 2025**.
-- Kim, T., Lee, S., Kang, J., Choi, Y., Yun, W., **Kim, N.**, et al. (2025). *IMC: A Benchmark for Invariant Learning under Multiple Causes*. In **CVPR 2025 Workshop**.
+[**Robust Dataset Condensation using Supervised Contrastive Learning**](LINK_TO_PAPER)  
+Kim, H. and Song, H.  
+*ICCV 2025, Poster*  
+[code](LINK_TO_CODE)
+
+[**Towards Multi-dimensional Evaluation of LLM Summarization across Domains and Languages**](LINK_TO_PAPER)  
+Min, H., Lee, Y., Ban, M., Deng, J., Kim, H., Yun, T., Su, H., Cai, J., Song, H.  
+*ACL 2025, Main conference*  
+[code](LINK_TO_CODE)
+
+[**IMC: A Benchmark for Invariant Learning under Multiple Causes**](LINK_TO_PAPER)  
+Kim, T., Lee, S., Kang, J., Choi, Y., Yun, W., Kim, H., Chen, Z., Xie, L., Song, K.  
+*CVPR 2025 Workshop on Domain Generalization, Best Paper Award*  
+[code](LINK_TO_CODE)
+
+[**Learning to Verify Summary Facts with Fine-Grained LLM Feedback**](LINK_TO_PAPER)  
+Oh, J., Choi, J., Kim, H., Yun, T., Kwon, R., Song, H.  
+*COLING 2025, Oral*  
+[code](LINK_TO_CODE)
+
+[**Robust Dataset Condensation via Semi-Supervised Learning**](LINK_TO_PAPER)  
+Kim, H., Choi, J., Lee, Y., Song, H.  
+*KCC 2025, Oral*  
+[code](LINK_TO_CODE)
+
+[**Improving Language Model Quality through LLM-based Fine-Grained Hallucinated Summary Generation**](LINK_TO_PAPER)  
+Oh, J., Choi, J., Kim, H., Song, H.  
+*Journal of Computing Practice 2025*  
+[code](LINK_TO_CODE)
+
+[**Robust Dataset Condensation via Supervised Contrastive Learning**](LINK_TO_PAPER)  
+Kim, H., Lee, Y., Song, H.  
+*KSC 2024, Oral*  
+[code](LINK_TO_CODE)
+
+[**Improving the Text Summary Quality Through Understanding the Hallucination Level of Summarization Using Large Language Models**](LINK_TO_PAPER)  
+Oh, J., Choi, J., Kim, H., Song, H.  
+*KCC 2024, Oral*  
+[code](LINK_TO_CODE)
 
 ---
 
