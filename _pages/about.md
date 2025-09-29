@@ -18,6 +18,7 @@ My research focuses on enhancing multimodal large language models (LLMs) and vis
 ### Robust Dataset Condensation using Supervised Contrastive Learning
 **Nicole Hee-Yeon Kim** and Hwanjun Song  
 *ICCV 2025 (Accepted)*
+[[code](https://github.com/DISL-Lab/RDC-ICCV2025.git)]
 
 ### Towards Multi-dimensional Evaluation of LLM Summarization across Domains and Languages  
 Hyangsuk Min, Yuho Lee, Minjeong Ban, Jiaqi Deng, **Nicole Hee-Yeon Kim**, Taewon Yun, Hang Su, Jason Cai, Hwanjun Song  
