@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year M.S. student in the Department of Industrial and Systems Engineering at KAIST, advised by Prof. Hwanjun Song. I received my B.S. in Industrial Engineering from Yonsei University, where I worked as a research intern with Prof. Kyungwoo Song. I hold dual citizenship of the United States of America and the Republic of Korea, and I am planning to apply for Ph.D. programs in Fall 2026 as a domestic student in the U.S.
+I recently completed my M.S. in the Department of Industrial and Systems Engineering at KAIST, where I was advised by Prof. Hwanjun Song. I received my B.S. in Industrial Engineering from Yonsei University, where I worked as a research intern with Prof. Kyungwoo Song. I hold dual citizenship of the United States and the Republic of Korea, and I plan to apply to Ph.D. programs in Fall 2027 as a domestic applicant in the U.S.
 
-My research focuses on enhancing multimodal large language models (LLMs) and vision–language models (VLMs) for deeper understanding across multiple modalities, including images, text, audio, and video. I am particularly interested in advancing AI–human interaction, aiming to develop systems where AI can accurately interpret human intentions and humans can effectively guide AI’s development.
+My research focuses on efficient and scalable AI systems, with particular emphasis on optimization for large-scale deep learning models. I am interested in improving training and inference efficiency in large language models (LLMs) and vision–language models (VLMs), as well as developing robust and reliable AI systems that perform effectively under real-world constraints.
 
 ---
 
