@@ -16,7 +16,7 @@ My research focuses on efficient and scalable AI systems, with particular emphas
 ## Publications
 
 ### Rethinking RAG in Long Videos: What to Retrieve and How to Use It?
-Yuho Lee†, Jisu Shin†, **Nicole Hee-Yeon Kim†**, Jihwan Bang, Juntae Lee, Kyuwoong Hwang, Fatih Porikli, Hwanjun Song
+Yuho Lee†, Jisu Shin†, **Nicole Hee-Yeon Kim†**, Jihwan Bang, Juntae Lee, Kyuwoong Hwang, Fatih Porikli, Hwanjun Song  
 *Submitted to NeurIPS 2026 (Average score: 4/6) ( †Equal contribution.)*  
 [[paper](https://arxiv.org/pdf/2606.13141)]
 
