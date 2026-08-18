@@ -63,8 +63,8 @@ Jihwan Oh, Jeonghwan Choi, **Nicole Hee-Yeon Kim**, Hwanjun Song
 
 ## Patent
 
-**Patent Pending** – KAIST Patent Registration ID: KR P2025-0286, *Robust Dataset Condensation using Supervised Contrastive Learning*
-
+**Patent Pending** – Patent Application Number: 10-2025-0118216, *Robust Dataset Condensation using Supervised Contrastive Learning*
+**Patent Pending** - Patent Application Number: 10-2026-0066617, *Cost-efficient and Accurate Debate-based Relevance Assessment System with Multi-agents*
 ---
 
 ## Honors and Awards
